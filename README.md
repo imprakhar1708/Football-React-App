@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Football React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- ### Deployed Link : https://prakhar-football-app.netlify.app/
+
+✅ It shows Information About Major League's Standings, Stats, Top Scorers, Trending News.
+
+✅ It Uses Material UI for React Components, Redux, its Proxy Server is Made Using Node.js, which takes information from Sports-API ( Had To Do This Due To Low Requests Given By API Provider on Free Plan ).
+
+✅ Proxy Server is Hosted On Cyclic.sh and React App is Hosted On Netlify.
+
+🚫 Incase Some Information is Not Visible and is in Loading State for Long Period of Time, Consider Refreshing a Couple of Times. (This Happens due to Low Quality Servers Provided in Free Plan of Server Hosting)
 
 ## Available Scripts
 
